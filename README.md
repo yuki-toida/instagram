@@ -23,7 +23,7 @@ config :instagram,
 client_secret: you can use environment variables.
 
 ```bash
-export CHANNEL_SECRET="YOUR CLIENT SECRET"
+export CLIENT_SECRET="YOUR CLIENT SECRET"
 ```
 
 ## License
